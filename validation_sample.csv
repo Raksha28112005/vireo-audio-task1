@@ -1,0 +1,53 @@
+ticket_id,customer_message,agent_notes,category,ai_category,human_check,notes
+TK-251138,"Product: the strata 3
+Order: VR903271
+Purchased: 24/02
+Issue: refund not received yet
+Tried: emailed twice
+Expected: replacement","cx: refund pending | chk reverse pickup qc status -> refund approved, rs 6999, 5-7 working days",Returns & Refunds,Returns & Refunds,Returns & Refunds,
+TK-241245,app crashes when i open device settings,"Cleared cache, rslvd. Issue: app crash on device page. Known issue on Android 15 - bug logged. //SNE",App & Firmware,App & Firmware,App & Firmware,
+TK-252147,"To the Vireo Customer Care Team,
+
+I am writing with reference to my order of my Pulse 2 (VR906843) placed on March 24. You picked up the item 7 days ago and my money hasn't come back. I have emailed twice. I request you to provide a resolution within 3 working days.
+
+Sincerely,
+Anjali Mittal","1. Refund not credited
+2. Checked reverse pkp QC status
+3. Refund of Rs 2974 initiated to source (SOP 5.4) [closed]",Returns & Refunds,Returns & Refunds,Returns & Refunds,
+TK-246425,"works for music but useless for meetings
+VR896558",cx says mic issue. checked mic permissions on phone. replacement raised. closing.,Audio Quality,Audio Quality,Audio Quality,
+TK-250318,"Very poor quality. I bouht Orbit Mini on 14 Feb. paid via UPI, amount deducted, no order confirmation. I already checekd bank statement. I want a replacement or refund, nothign else.",ord manually created. issue: amount deducted without ord. checked pg dashboard for txn. ~Megha,Billing & Payments,Billing & Payments,Billing & Payments,
+TK-249270,"namaste, this is regarding my pulse 2. my phone just doesn't see it in the list anymore. i restarted the phone. need this sorted this week. thank you lakshmi khanna","cx: device not discoverable | asked cx to reset the device -> advised fw update via app, rslvd | xfer billing //HAR",Connectivity,Connectivity,Connectivity,
+TK-250581,[IVR transcript] hey lockked out of my own account since in june ??,"re: unable to log in | checked otp logs -> number updated, resolved",Account & Login,Account & Login,Account & Login,
+TK-242652,"Dear Sir/Madam, This is regarding the Nexa 2. Package not delivered even after 12 days. Waiting for your reply. Thank you",re: delivery delayed | checked awb with courier -> refund initiated as lost in transit,Delivery & Shipping,Delivery & Shipping,Delivery & Shipping,
+TK-246763,"I haven't received my order
+VR891655
+can someone fix this?",Contact re ord not delivered. Checked AWB with courier. Refund initiated as lost in transit. Follow-up not required.,Delivery & Shipping,Delivery & Shipping,Delivery & Shipping,
+TK-251601,audio keeps disconnecting every few minutes - VR905701 - pls resolve asap,"cx reached out - intermittent disconnects. checked fw 1.5.4. replacement approved, reverse pickup arranged. closing.",Connectivity,Returns & Refunds,Connectivity,
+TK-243874,"Namaste, Got Pulse 2 from vireo.in 2 weeks ago. Battery drains very fast, barely lasts 2 hours. I updated the app. Please call me on my registered number. Thanks & regards, Lakshmi","Reported: battery draining fast. Checked usage pattern w/ cx. Refund approved, Rs 446, 5-7 working days. Follow-up not required. (SOP 4.2) -VG",Charging & Battery,Charging & Battery,Charging & Battery,
+TK-248586,Not what I expected from Vireo. Got my Strata 3 headphones from Amazon 3 weeks back. cannot pair my Strata 3 headphones with my laptop. I already tried on another phone. Fix this or I am posting on twitter.,"Reset done, paired ok. Issue: pairing failure. Checked phone OS version. ~Ritika",Connectivity,Connectivity,Connectivity,
+TK-252241,"please cancel, ordered by mistake
+VR908064",cust contacted re cancel order. chk shipment status. refunded rs 5524.,Other,Returns & Refunds,Returns & Refunds,
+TK-240428,i was charged twice for one order,Duplicate refunded to source. Issue: duplicate payment. Checked PG for duplicate txn.,Billing & Payments,Billing & Payments,Billing & Payments,
+TK-245989,"hii
+the box says my orbit but what's inside is not what i pid for
+hello??","1. Wrong item delivered
+2. Raised with warehouse
+3. New unit shipped under DOA [closed]",Returns & Refunds,Delivery & Shipping,Delivery & Shipping,
+TK-243048,"hey
+i haven't received my order
+anyone there","cx: order not delivered | checked awb with courier -> courier confirmed delivery for 22 jun, cx informed",Delivery & Shipping,Delivery & Shipping,Delivery & Shipping,
+TK-252169,"To the Vireo Customer Care Team,
+
+I am writing with reference to my order of USB-C cable placed on 09/04. Want to cancel my order. I have tried cancel button, greyed out. I request you to look into this matter at the earliest.
+
+Regards,
+Aarav Mukherjee","rfnd approved, Rs 379, 5-7 working days. Issue: cancel order. Checked shipment status. (SOP 5.4)",Delivery & Shipping,Returns & Refunds,Returns & Refunds,
+TK-245358,"PRODUCT: STRATA 2
+PURCHASED: 15-09-2025
+ISSUE: TWO ENTRIES OF RS 2499 ON MY STATEMENT FOR ONE PAIR OF EARBUDS
+TRIED: CHECKED WITH BANK
+EXPECTED: CALLBACK",ticket raised for dupllicate payment. checked pg for duplicate txn. rfnd of rs 3999 initiated to source. cx informed.,Other,Billing & Payments,Billing & Payments,
+TK-245054,"the login code never arrives, tried 6 times","OTP resent, cx logged in. Issue: unable to log in. Checked OTP logs.",App & Firmware,Account & Login,Account & Login,
+TK-247934,"hi
+the courier marked it delivered but nobody in my house got anything","Reported: shipment not received. Confirmed address with cx. Courier confirmed dlvry for 06 Dec, cx informed. Follow-up not required. (SOP 5.4) ~Imran",Delivery & Shipping,Delivery & Shipping,Delivery & Shipping,

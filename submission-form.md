@@ -46,11 +46,11 @@ A routing/process view: category-to-policy ownership mismatches. This helps dist
 
 I used ChatGPT to inspect the data pack, reason about the policy, design the taxonomy and validation approach, and iterate on the classifier implementation. The submitted runtime uses local scikit-learn and no paid LLM calls.
 
-Screen recording: [PASTE PUBLIC GOOGLE DRIVE LINK]
+
 
 ## Your Public Google Drive Link
 
-[PASTE LINK]
+https://drive.google.com/file/d/1VKWnWsIeTz3oXzmw13N9gtPfQPmqC5K7/view?usp=sharing
 
 ## Someone picks this up on Monday and you are unreachable. The three things they need to know.
 

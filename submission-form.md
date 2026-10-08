@@ -58,10 +58,8 @@ https://drive.google.com/file/d/1VKWnWsIeTz3oXzmw13N9gtPfQPmqC5K7/view?usp=shari
 2. Run `python run.py --data ./data --out ./outputs`.
 3. Review `validation_sample.csv` before treating the classifier as production-ready; legacy blank transfers are not zeros.
 
-## Honest hours spent.
 
-[ENTER ACTUAL HOURS]
 
 ## Github Repo Link
 
-[PASTE PUBLIC REPO URL]
+https://github.com/Raksha28112005/vireo-audio-task1.git
